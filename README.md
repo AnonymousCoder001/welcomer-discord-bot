@@ -1,2 +1,4 @@
 # welcomer-discord-bot
-Set welcome more advance
+Your server will get a nice own bot
+#contact me
+discord: https://discord.gg/XXvmA3euuB
